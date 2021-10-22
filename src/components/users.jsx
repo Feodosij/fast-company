@@ -30,7 +30,7 @@ const Users = () => {
     return(
      
       
-        <table className="table" key={users._id}>
+        <table className="table" >
               
                 <thead>
                   {renderPhrase()}
